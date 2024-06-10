@@ -17,6 +17,8 @@ Este é um projeto referente à vaga de Desenvolvedor Front-end da empresa Insig
 - Tailwind css.
 - React Hook Form.
 - Zod.
+- Axios.
+- useSWR.
   
 ## Instalação e inicialização
 
